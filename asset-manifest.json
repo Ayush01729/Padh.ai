@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/padh.ai/static/css/main.0eb39a98.css",
+    "main.js": "/padh.ai/static/js/main.b461675d.js",
+    "index.html": "/padh.ai/index.html",
+    "main.0eb39a98.css.map": "/padh.ai/static/css/main.0eb39a98.css.map",
+    "main.b461675d.js.map": "/padh.ai/static/js/main.b461675d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eb39a98.css",
+    "static/js/main.b461675d.js"
+  ]
+}
